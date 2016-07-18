@@ -1,5 +1,7 @@
 'use strict';
 
+//Teste Api Node
+
 let Joi = require('joi')
 let Hapi = require('hapi');
 let User = require('./models/user')
